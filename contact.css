@@ -1,0 +1,61 @@
+body{
+    background-image: url(bb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.aa{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+main{
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.bbb{
+    border: 1px  black;
+    margin:100px;
+    color: white;
+    opacity: 0.8;
+}
+
+.bbb .bb{
+    border: 1px solid black;
+    width: 50%;
+    float: left;
+    text-align: center;
+    height: 350px;
+    padding-top: 50px;
+}
+.bbb .b{
+    border: 1px solid black;
+    width: 49.60%;
+    float: right;
+    text-align: center;
+    height: 350px;
+    padding-top: 50px;
+}
+
+.btn{
+    border: 2px solid black;
+    width: 20%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    padding : 5px;
+    background-color: rgb(177, 71, 71);
+    display: inline-block;
+    opacity: 0.7;
+    border-radius: 10px;
+    
+}
+.btn:hover{
+    opacity: 1;
+}
+.btn p{
+    color: black;
+}
